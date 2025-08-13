@@ -63,13 +63,6 @@ Dependencies include:
 - Implement a user-friendly GUI.
 - Support for batch QR code generation from a list of data.
 
-## 👨‍💻 Author
-
-Khaled Soudy
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
